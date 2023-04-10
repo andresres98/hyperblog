@@ -6,6 +6,6 @@ llenos de sonido y de furia.
 
 Es mentiras, la poesia es un vanal intento de captar la escencia del hombre, 
 
-solo que lo hace con una pedantería única de gente detergente
+solo que lo hace con una pedantería única de gente única y diferente
 
 vamos a agregar una línea más de código txt para ver como funciona git
